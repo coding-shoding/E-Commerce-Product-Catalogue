@@ -24,7 +24,7 @@ const products = [
     category: "Grocery",
     price: 180,
     quantity: 15,
-    image: null,
+    image: oil,
   },
   {
     id: 4,
